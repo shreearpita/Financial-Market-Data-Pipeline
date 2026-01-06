@@ -202,9 +202,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Yahoo Finance API for providing free financial data
 - The quantitative finance community for inspiration
 
-
-Project Link: [https://github.com/yourusername/financial-market-pipeline](https://github.com/yourusername/financial-market-pipeline)
-
 ---
 
 **Note**: This project is for educational purposes only. Not financial advice.
